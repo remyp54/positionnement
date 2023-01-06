@@ -1,0 +1,21 @@
+div {
+	padding: 30px;
+}
+
+#vert {
+	background-color: green;
+	width: 600px;
+	height: 300px;
+}
+
+#bleu {
+	background-color: blue;
+	width: 500px;
+	height: 250px;
+}
+
+#orange {
+	background-color: orange;
+	width: 400px;
+	height: 200px;
+}
