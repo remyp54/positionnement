@@ -1,0 +1,47 @@
+div {
+	padding: 30px;
+}
+
+#turquoise {
+	background-color: turquoise;
+	width: 300px;
+	height: 300px;
+}
+
+#vert {
+	background-color: green;
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	z-index: 1;
+}
+
+#bleu {
+	background-color: blue;
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	z-index: 4;
+	top:160px;
+	left: 60px;
+}
+
+#orange {
+	background-color: orange;
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 240px;
+	left: 140px;
+	z-index: 3;
+}
+
+#jaune {
+	background-color: yellow;
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	z-index: 2;
+	top: 270px;
+	left: 170px;
+}
