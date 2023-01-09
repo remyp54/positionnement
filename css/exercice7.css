@@ -1,0 +1,39 @@
+section {
+	width: 400px;
+}
+
+#vert {
+	background-color: green;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+#bleu {
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+#orange {
+	background-color: orange;
+	width: 250px;
+	height: 100px;
+	clear: both;
+	width: 100%;
+}
+
+#jaune {
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+	float: right;
+}
+
+#gray {
+	background-color: gray;
+	width: 100px;
+	height: 100px;
+	float: right;
+}
