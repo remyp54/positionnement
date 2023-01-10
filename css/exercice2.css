@@ -1,7 +1,21 @@
-div {
-	padding: 30px;
+body {
+	font-family: arial;
+	text-align: center;
 }
 
+a {
+	color: black;
+	text-decoration: none;
+}
+a:hover {
+	color: yellowgreen;
+	font-size: 20px;
+}
+
+div {
+	margin: auto;
+	padding: 30px;
+}
 #vert {
 	background-color: green;
 	width: 600px;
@@ -22,5 +36,5 @@ div {
 	width: 400px;
 	height: 200px;
 	position: relative;
-	right: 300px;
+	right: 360px;
 }
